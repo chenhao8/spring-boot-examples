@@ -5,14 +5,14 @@ import com.neo.entity.UserEntity;
 /**
  * Created by summer on 2017/5/5.
  */
-public interface UserDao  {
+public interface UserDao {
 
-    public void saveUser(UserEntity user);
+	public void saveUser(UserEntity user);
 
-    public UserEntity findUserByUserName(String userName);
+	public UserEntity findUserByUserName(String userName);
 
-    public int updateUser(UserEntity user);
+	public int updateUser(UserEntity user);
 
-    public void deleteUserById(Long id);
+	public void deleteUserById(Long id);
 
 }

@@ -1,6 +1,7 @@
 package com.neo.config.props;
 
 import lombok.Data;
+
 import org.springframework.boot.autoconfigure.mongo.MongoProperties;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
