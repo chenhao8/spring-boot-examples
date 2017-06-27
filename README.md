@@ -1,26 +1,24 @@
 # Spring Boot Examples
 
-Demo website：http://www.ityouknow.com/
-
-[参与贡献](https://github.com/ityouknow/spring-boot-examples/issues)&nbsp;| &nbsp;[English](README_EN.md)
+[参与贡献](https://github.com/chenhao8/spring-boot-examples/issues)&nbsp;| &nbsp;[English](README_EN.md)
 
 
 Spring boot使用的各种示例，以最简单、最实用为标准
 
                            
-- [spring-boot-helloWorld](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-helloWorld)：spring-boot的helloWorld版本
-- [spring-boot-mybaits-annotation](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-mybatis-annotation)：注解版本
-- [spring-boot-mybaits-xml](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-mybatis-xml)：xml配置版本
-- [spring-boot-mybatis-mulidatasource](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-mybatis-mulidatasource)：springboot+mybatis多数据源最简解决方案
-- [spring-boot-mybatis-annotation-mulidatasource](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-mybatis-annotation-mulidatasource)：springboot+mybatis（注解版）多数据源最简解决方案
-- [spring-boot-rabbitmq](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-rabbitmq)：spring boot和rabbitmq各种消息应用案例
-- [spring-boot-scheduler](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-scheduler)：spring boot和定时任务案例
-- [spring-boot-web](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-web)：web开发综合使用案例
-- [spring-boot-mail](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-mail)：spring boot和邮件服务
-- [spring-boot-mongodb](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-mongodb)：spring boot和mongodb的使用
-- [spring-boot-multi-mongodb](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-multi-mongodb)：spring boot和mongodb多数据源的使用
-- [spring-boot-package-war](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-package-war)：spring-boot打包成war包示例
-- [spring-boot-shiro](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-shiro)：springboot 整合shiro rbac示例
+- [spring-boot-helloWorld](https://github.com/chenhao8/spring-boot-examples/tree/master/spring-boot-helloWorld)：spring-boot的helloWorld版本
+- [spring-boot-mybaits-annotation](https://github.com/chenhao8/spring-boot-examples/tree/master/spring-boot-mybatis-annotation)：注解版本
+- [spring-boot-mybaits-xml](https://github.com/chenhao8/spring-boot-examples/tree/master/spring-boot-mybatis-xml)：xml配置版本
+- [spring-boot-mybatis-mulidatasource](https://github.com/chenhao8/spring-boot-examples/tree/master/spring-boot-mybatis-mulidatasource)：springboot+mybatis多数据源最简解决方案
+- [spring-boot-mybatis-annotation-mulidatasource](https://github.com/chenhao8/spring-boot-examples/tree/master/spring-boot-mybatis-annotation-mulidatasource)：springboot+mybatis（注解版）多数据源最简解决方案
+- [spring-boot-rabbitmq](https://github.com/chenhao8/spring-boot-examples/tree/master/spring-boot-rabbitmq)：spring boot和rabbitmq各种消息应用案例
+- [spring-boot-scheduler](https://github.com/chenhao8/spring-boot-examples/tree/master/spring-boot-scheduler)：spring boot和定时任务案例
+- [spring-boot-web](https://github.com/chenhao8/spring-boot-examples/tree/master/spring-boot-web)：web开发综合使用案例
+- [spring-boot-mail](https://github.com/chenhao8/spring-boot-examples/tree/master/spring-boot-mail)：spring boot和邮件服务
+- [spring-boot-mongodb](https://github.com/chenhao8/spring-boot-examples/tree/master/spring-boot-mongodb)：spring boot和mongodb的使用
+- [spring-boot-multi-mongodb](https://github.com/chenhao8/spring-boot-examples/tree/master/spring-boot-multi-mongodb)：spring boot和mongodb多数据源的使用
+- [spring-boot-package-war](https://github.com/chenhao8/spring-boot-examples/tree/master/spring-boot-package-war)：spring-boot打包成war包示例
+- [spring-boot-shiro](https://github.com/chenhao8/spring-boot-examples/tree/master/spring-boot-shiro)：springboot 整合shiro rbac示例
 - [Favorites-web](https://github.com/cloudfavorites/favorites-web)：云收藏（springboot实战开源软件）
 
 
@@ -43,10 +41,4 @@ Spring boot使用的各种示例，以最简单、最实用为标准
 - [springboot(十三)：springboot小技巧](http://www.ityouknow.com/springboot/2017/06/22/springboot-tips.html)
 - [springboot(十四)：springboot整合shiro-登录认证和权限管理](http://www.ityouknow.com/springboot/2017/06/26/springboot-shiro.html)
 
-> 如果大家想了解关于springboot的其它方面应用，也可以以[issues](https://github.com/ityouknow/spring-boot-examples/issues)的形式反馈给我，我后续来完善。
-
- 
-关注公众号：纯洁的微笑，回复"springboot"进群交流
-
-![](http://www.ityouknow.com/assets/images/keeppuresmile.jpg)
-
+> 如果大家想了解关于springboot的其它方面应用，也可以以[issues](https://github.com/chenhao8/spring-boot-examples/issues)的形式反馈给我，我后续来完善。
