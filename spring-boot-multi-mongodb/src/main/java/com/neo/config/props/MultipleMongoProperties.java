@@ -13,4 +13,14 @@ public class MultipleMongoProperties {
 
 	private MongoProperties primary = new MongoProperties();
 	private MongoProperties secondary = new MongoProperties();
+
+	public MongoProperties getPrimary() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public MongoProperties getSecondary() {
+		// TODO Auto-generated method stub
+		return null;
+	}
 }
